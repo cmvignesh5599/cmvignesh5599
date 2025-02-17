@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vignesh Surya Mantha
 
-I'm passionate about **Machine Learning, Deep Learning, and Generative AI** and exploring their potential applications in **Data Science and Motorsports Analytics (Formula 1).**
+**I'm passionate about **Machine Learning, Deep Learning, and Generative AI** and exploring their potential applications in **Data Science and Motorsports Analytics (Formula 1).**
 
 - 🎓 I’m pursuing my **Master’s in Data Science at NJIT**
 - 🚀 Currently working on **ML, Deep Learning,Gen AI, Big Data and Formula 1 Data Analytics projects**
