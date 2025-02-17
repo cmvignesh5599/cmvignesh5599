@@ -4,7 +4,7 @@ I'm passionate about **Machine Learning, Deep Learning, and Generative AI** and 
 
 - 🎓 I’m pursuing my **Master’s in Data Science at NJIT**
 - 🚀 Currently working on **ML, Big Data, and F1 Data Analytics projects**
-- 📄 My profile (**[Resume](your_resume_link_here)**)
+- 📄 My profile (**[Resume](file:///Users/vigneshmantha/Desktop/COOL%20Files/MY%20RESUME.pdf)**)
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vignesh-surya-mantha-5859a1343![image](https://github.com/user-attachments/assets/e5ffee5a-5aa2-49c2-8d5f-12b9f4c72f27)
